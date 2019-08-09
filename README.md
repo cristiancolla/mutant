@@ -1,7 +1,8 @@
 # mutant
 Test, isMutant
 
-########################### NIVEL 1 ########################### 
+########################### NIVEL 1 ###########################
+ 
 Se desarrollo un script python donde permite al ejecutarlo ingresar por consola un string, interpreta ese string y devuelve, 
     true si es mutante, 
     false si no es mutante, o el string es incorrecto, para este ultimo punto se interpreto de esa manera ya que los requerimientos no especifican la respuesta para el caso de datos incorrectos.
@@ -10,6 +11,7 @@ Se desarrollo un script python donde permite al ejecutarlo ingresar por consola 
 archivo codigo fuente: mutant.py
     
 ########################### NIVEL 2 y 3 ########################### 
+
 Teniendo en cuenta el script de python anterior se implemento una api REST en GOOGLE APP ENGINE, con flask, con tres metodos, los dos mencionados en el ejercicio y un tercer metodo de control de funcionamiento
 
 https://testcolla.appspot.com/test

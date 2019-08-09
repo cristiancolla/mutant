@@ -13,7 +13,9 @@ archivo codigo fuente: mutant.py
 Teniendo en cuenta el script de python anterior se implemento una api REST en GOOGLE APP ENGINE, con flask, con tres metodos, los dos mencionados en el ejercicio y un tercer metodo de control de funcionamiento
 
 https://testcolla.appspot.com/test
+
 https://testcolla.appspot.com/mutant
+
 https://testcolla.appspot.com/stats
 
 A su vez se utilizo para el punto 3 una base de datos Mysql corriendo en GOOGLE SQL CLOUD, se adjunta el modelo de la misma (bd.sql)
